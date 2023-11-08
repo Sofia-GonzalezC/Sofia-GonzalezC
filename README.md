@@ -40,7 +40,7 @@ experiencias como Programadora. Busco superarme día a día y enfrentarme a nuev
 <h2 align="center"> Información de Contacto </h2>
 
 <h3 align="center"> <img src ="https://github.com/Sofia-GonzalezC/Sofia-GonzalezC/assets/150254652/edb50d38-68c3-4fbf-a7ab-d4b0ea7717bf" width="6%"> 54 9 3516839666 </h3> 
-<h3 align="center"> <a href="mailto:sofigonzalezc16gmail.com" target="_blank"> <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="11%"> </a> </h3> 
+<h3 align="center"> <a href="mailto:sofigonzalezc16gmail.com"> <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="11%"> sofigonzalezc16@gmail.com </a> </h3> 
 <h3 align="center"> <a href="https://www.linkedin.com/in/sofia-gonzalez-/" target="_blank"> <img src ="https://github.com/Sofia-GonzalezC/Sofia-GonzalezC/assets/150254652/fac358af-3c01-45fd-8ef5-843ed14c0d7e" width="6%"> </a> </h3>
 <h3 align="center"> <a href="https://api.whatsapp.com/send?phone=5493516839666&text=Hola!" target="_blank"><img src ="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="13%"></a> </h3> 
 
