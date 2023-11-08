@@ -35,7 +35,7 @@ experiencias como Programadora. Busco superarme día a día y enfrentarme a nuev
 <h2 align="center"> Información Personal </h2>
 <h3 align="center"> <img src="https://github.com/Sofia-GonzalezC/Sofia-GonzalezC/assets/150254652/8206ed8a-083a-4834-b339-ece8b267ef49" width="5%"> Sofia Isabel Gonzalez Caserez </h3>
 <h3 align="center"> <img src="https://github.com/Sofia-GonzalezC/Sofia-GonzalezC/assets/150254652/fdb89a3f-699a-4913-b8c7-91a80f6a4612" width="5%"> 04/11/2003 </h3>
-<h3 align="center"> <a href="https://github.com/Sofia-GonzalezC/Sofia-GonzalezC/files/13300556/curriculum.vitae.CV.trabajo.pdf"> <img src="https://github.com/Sofia-GonzalezC/Sofia-GonzalezC/assets/150254652/057bd68a-393d-4b3a-9ef4-ffa157cae379" width="10%"> </a> </h3>
+<h3 align="center"> <a href="https://github.com/Sofia-GonzalezC/Sofia-GonzalezC/files/13300747/curriculum.vitae.CV.trabajo.pdf"> <img src="https://github.com/Sofia-GonzalezC/Sofia-GonzalezC/assets/150254652/057bd68a-393d-4b3a-9ef4-ffa157cae379" width="10%"> </a> </h3>
 
 <h2 align="center"> Información de Contacto </h2>
 
